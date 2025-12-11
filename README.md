@@ -1,3 +1,6 @@
+[![CodeGuardian Demo](https://img.youtube.com/vi/jT0YHyFHY2A/0.jpg)](https://www.youtube.com/watch?v=jT0YHyFHY2A)
+
+
 🛡️ CodeGuardian
 
 A lightweight automated code-quality and patch-validation pipeline.
